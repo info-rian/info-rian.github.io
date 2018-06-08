@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://gitlab.com/uploads/-/system/user/avatar/2351129/avatar.png"
+photo: "https://github.com/info-rian/info-rian.github.io/blob/master/29542857_10211687768890926_4908950932212969685_n.jpg"
 name: "Rian Septiana"
 copy: "I'm a System Administrator based in Bandung, West Java - Indonesia. two years experience in linux server & administration, 5 years experience in Networking stuff."
 

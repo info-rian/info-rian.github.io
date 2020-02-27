@@ -469,7 +469,7 @@ script + p {
 
 @media (max-width: $screen-sm-max) and (min-width: $screen-sm-min) {
   .panel-body {
-    height: 320px;
+    height: 220px;
   }
 }
 
@@ -526,6 +526,11 @@ script + p {
     border: 1px solid #eee;
   }
 
+  .panel2 {
+    box-shadow: 1px;
+    border: 1px solid #eee;
+  }
+
   .panel-heading {
     height: 35px;
     overflow: hidden;
@@ -534,4 +539,22 @@ script + p {
   .panel-body {
     height: 280px;
   }
+  .panel-body2 {
+    height: 180px;
+  }
+
+  .logo-pic {
+    float: left;
+
+    img {
+      width: 120px;
+      height: 120px;
+      margin-bottom: 10px;
+    }
+
+    + .logo-baseinfo {
+      margin-left: 140px;
+    }
+  }
+
 }
